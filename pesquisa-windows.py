@@ -1,4 +1,3 @@
-#Faça pesquisas na web utilizando python com este simples script.
 #Versão 0.0.1 para Windows
 
 import os
