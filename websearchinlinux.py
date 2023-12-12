@@ -1,4 +1,4 @@
-#FLinux
+#Linux
 
 import subprocess as s
 
