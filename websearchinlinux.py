@@ -1,4 +1,4 @@
-#Versão 0.0.1 para Linux
+#FLinux
 
 import subprocess as s
 
